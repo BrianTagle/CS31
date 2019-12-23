@@ -1,5 +1,5 @@
 # CS31
-UCLA CS31 taken with Professor David Smallberg
+UCLA CS31 taken with Professor David Smallberg in Fall 2017  
 These are all the projects I completed in the class
 
 Grades:
